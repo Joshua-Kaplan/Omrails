@@ -2,12 +2,15 @@
 
 body{
 	padding-top: 60px;
-	background-image: image-url("picture012.jpg");
+	/*background-image: image-url("picture012.jpg");*/
 }
 
 @import 'bootstrap-responsive';
 
-
+.smallpic>img{
+    height:100px;
+    width:56px;
+}
 
 .footer{
 
