@@ -6,6 +6,7 @@ gem 'simple_form'
 gem 'jquery-rails'
 gem "paperclip", "~> 3.0"
 gem 'aws-sdk'
+gem 'faker', '1.1.2'
 
 
 # Bundle edge Rails instead:
